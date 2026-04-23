@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello, I am an Electronics and Communication Engineering student. 
 I enjoy learning new concepts and building projects.
 I'm passionate about coding and development.
+=======
+Hello, I am passionate about coding and software development.
+>>>>>>> feature/projects
